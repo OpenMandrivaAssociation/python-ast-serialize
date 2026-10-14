@@ -1,0 +1,2 @@
+# mypy is the project name, not a misspelling of pygmy
+addFilter("E: spelling-error \('mypy'")
